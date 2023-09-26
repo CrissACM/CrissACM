@@ -1,15 +1,11 @@
-[![MasterHead] (https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Cristobal Colmenares</h1>
 <h3 align="center">Full-Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src"https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crissacm&label=Profile%20views&color=0e75b6&style=flat" alt="crissacm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crissacm" alt="crissacm" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/crissacm1" target="blank"><img src="https://img.shields.io/twitter/follow/crissacm1?logo=twitter&style=for-the-badge" alt="crissacm1" /></a> </p>
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://crissdev.vercel.app/](https://crissdev.vercel.app/)
 
