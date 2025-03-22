@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Cristobal Colmenares
 
-## Full stack developer 💻
+## Software developer 💻
 
 A Programmer specialized in Web Development
 
