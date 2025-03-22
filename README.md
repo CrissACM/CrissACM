@@ -1,4 +1,4 @@
-### Hi 👋, I'm Cristobal Colmenares
+# Hi 👋, I'm Cristobal Colmenares
 
 ## 💻 Software developer
 
@@ -10,7 +10,7 @@ A Programmer specialized in Web Development
 
 - All of my projects are available at [Crissdev](https://crissdev.vercel.app/)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=crissacm&theme=github_dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crissacm&theme=github_dark&hide_border=true&count_private=true&layout=compact)
 
