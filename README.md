@@ -23,3 +23,5 @@ A Programmer specialized in Web Development
 </p>
 
 _Also have learned some other languages like C#, C++, Python, Javascript, and reasonML_
+
+![snake gif](https://github.com/crissacm/crissacm/blob/output/github-snake-dark.svg)
