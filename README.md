@@ -12,6 +12,6 @@ A Programmer specialized in Web Development
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=crissacm&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crissacm&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crissacm&theme=github_dark&hide_border=true&count_private=true&layout=compact)
 
 ![snake gif](https://github.com/crissacm/crissacm/blob/output/github-snake-dark.svg)
