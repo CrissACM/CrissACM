@@ -2,7 +2,7 @@
 
 ## 💻 Software developer
 
-A Programmer specialized in Web Development
+  Programmer specialized in Web & Mobile Development
 
 - I'm currently working in many projects that you may see on my feed or some private repos for organizations and stuff
 
