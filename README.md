@@ -1,4 +1,4 @@
-# Hi 👋 I use Arch, btw
+# I use Arch, btw 👋
 
 <img align="center" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif"  />
 
