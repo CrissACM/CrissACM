@@ -1,8 +1,8 @@
-# Hi 👋, Software Developer
+# Hi 👋, I'm Software Developer
 
 <img align="center" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif"  />
 
-##
+###
 
   Programmer specialized in Web & Mobile Development
 
