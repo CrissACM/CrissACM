@@ -12,6 +12,16 @@
 
 - All of my projects are available at [Crissdev](https://crissdev.vercel.app/)
 
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/?user=crissacm&theme=github_dark&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crissacm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=crissacm&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=crissacm&theme=github_dark&hide_border=true)
 
