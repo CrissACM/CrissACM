@@ -1,8 +1,8 @@
-# Hi 👋, I'm Cristobal Colmenares, Software Developer
+# Hi 👋, Software Developer
 
 <img align="center" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif"  />
 
-###
+##
 
   Programmer specialized in Web & Mobile Development
 
