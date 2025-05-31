@@ -1,6 +1,6 @@
 # Hi 👋, I'm Cristobal Colmenares
 
-<img align="center" width="500" src="https://i.redd.it/bpxxqqvps4h91.gif"  />
+<img align="center" width="200" src="https://i.redd.it/bpxxqqvps4h91.gif"  />
 
 ## 💻 Software developer
 
