@@ -1,4 +1,5 @@
 # I use Arch, btw 👋
+<h1 align="center"><b>Hi , I'm Crissacm </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="center" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif"  />
 
