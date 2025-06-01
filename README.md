@@ -2,7 +2,8 @@
 <!--  -->
 
 ###
-<img align="right" width="350" src="https://i.redd.it/bpxxqqvps4h91.gif"/>
+
+<img align="right" width="350" heigth="250" src="https://i.redd.it/bpxxqqvps4h91.gif"/>
 
 Programmer specialized in Web & Mobile Development
 
@@ -12,15 +13,13 @@ Programmer specialized in Web & Mobile Development
 
 - All of my projects are available at [Crissdev](https://crissdev.vercel.app/)
 
-###
+##
 
-<div align="center" >
+<div align="center" display="flex-col">
  <img src="https://nirzak-streak-stats.vercel.app/?user=crissacm&theme=github_dark&hide_border=true"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crissacm&locale=en&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </div>
 
-###
+##
 
 ![snake gif](https://github.com/crissacm/crissacm/blob/output/github-snake-dark.svg)
-
-###
