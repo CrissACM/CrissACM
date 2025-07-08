@@ -8,7 +8,7 @@ optimize and accelerate development processes.
 
 ###
 
-<img align="right" width="300" src="https://i.redd.it/bpxxqqvps4h91.gif"/>
+<img align="right" width="350" src="https://i.redd.it/bpxxqqvps4h91.gif"/>
 
 Programmer specialized in Web & Mobile Development
 
