@@ -3,7 +3,7 @@
 
 Software Developer focused on building high-quality products, with meticulous attention to detail. A technology enthusiast, I have experience in both web backend and frontend development, as well as mobile applications. 
 
-<img align="right" width="350" src="https://i.redd.it/bpxxqqvps4h91.gif"/>
+<img align="right" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif"/>
 
 Programmer specialized in Web & Mobile Development
 
