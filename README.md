@@ -32,3 +32,95 @@ When I'm not shipping features, I'm probably experimenting with a new tool, impr
 💬 Spanish (Native) · English (Advanced)
 
 Let's build something cool ✨
+
+
+# Hey, I'm Cristobal Colmenares 👋
+
+### Full Stack Software Engineer building scalable web, mobile, and AI-powered products.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-crissacm.dev-111111?style=for-the-badge&logo=astro&logoColor=white)](https://www.crissacm.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristobal_Colmenares-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crissacm)
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Full Stack Software Engineer from Venezuela who enjoys turning complex ideas into useful, reliable products.
+
+- ⚡ I build SaaS platforms, web apps, mobile products, and AI-powered features.
+- 🟦 TypeScript is usually at the center of everything I build.
+- ⚛️ I work with React, Next.js, React Native, NestJS, and Node.js.
+- 🏗️ I care about clean architecture, maintainable code, and systems that can grow without becoming painful.
+- 🔄 I enjoy working on real-time systems, workflow automation, multi-tenant platforms, and background processing.
+- 🤖 Currently exploring RAG pipelines, AI agents, LLM integrations, and practical automation.
+- 🧪 When I'm not shipping features, I'm probably experimenting with a new tool or rebuilding something just to see if I can make it better.
+
+---
+
+## 🛠️ My Tech Stack
+
+### Languages
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,php,html,css)](https://skillicons.dev)
+
+### Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,astro,tailwind,redux,vite)](https://skillicons.dev)
+
+### Backend
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma)](https://skillicons.dev)
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### Databases & Infrastructure
+
+[![Data and Infrastructure](https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws)](https://skillicons.dev)
+
+### Tools & Testing
+
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode)](https://skillicons.dev)
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-D92B2B?style=for-the-badge&logo=redis&logoColor=white)
+
+### AI & Automation
+
+![RAG](https://img.shields.io/badge/RAG_Pipelines-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-111111?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Integrations](https://img.shields.io/badge/LLM_Integrations-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=CrissACM&show_icons=true&hide_border=true&theme=transparent"
+    alt="Cristobal's GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrissACM&layout=compact&hide_border=true&theme=transparent"
+    alt="Cristobal's most used languages"
+  />
+</p>
+
+---
+
+## 🌎 Let's Connect
+
+I'm based in Caracas, Venezuela 🇻🇪 and open to remote opportunities, interesting collaborations, and building cool stuff with good people.
+
+- 🌐 [crissacm.dev](https://www.crissacm.dev/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/crissacm)
+- 💻 [GitHub](https://github.com/CrissACM)
+
+> Build useful things. Keep learning. Don't overcomplicate it. ✨
